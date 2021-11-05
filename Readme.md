@@ -1,4 +1,4 @@
-**<h1>Gui Authenticator Simulator</h1>**
+**<h1>Gui Authenticator Simulation</h1>**
 
 Este projeto visa ... 
 
